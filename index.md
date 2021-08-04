@@ -566,30 +566,11 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 				</a>
 					</div>
 		<div class="apphub_AppIcon"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/431960/e9dd5b58abec11692416bb2d036d3a4e523595c6.jpg"><div class="overlay"></div></div>
-		<div class="apphub_AppName ellipsis">Wallpaper Engine：桌布引擎</div>
+		<div class="apphub_AppName ellipsis">小橘最可愛</div>
 		<div style="clear: both"></div>
 				<div class="apphub_sectionTabs responsive_hidden">
 				
-	<a href="https://steamcommunity.com/app/431960" class="apphub_sectionTab  "><span>全部</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/discussions/" class="apphub_sectionTab  "><span>討論區</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/screenshots/" class="apphub_sectionTab  "><span>螢幕擷圖</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/images/" class="apphub_sectionTab  "><span>藝術作品</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/broadcasts/" class="apphub_sectionTab  "><span>實況直播</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/videos/" class="apphub_sectionTab  "><span>影片</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/workshop/" class="apphub_sectionTab active "><span>工作坊</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/allnews/" class="apphub_sectionTab  "><span>新聞</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/guides/" class="apphub_sectionTab  "><span>指南</span></a>
-		
-	<a href="https://steamcommunity.com/app/431960/reviews/" class="apphub_sectionTab  "><span>評論</span></a>
-				<div style="clear: left"></div>
+
 		</div>
 
 		<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
