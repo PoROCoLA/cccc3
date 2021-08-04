@@ -288,16 +288,16 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			<a class="menuitem supernav username persona_name_text_content" href="https://steamcommunity.com/id/hear4acoustic/home/" data-tooltip-type="selector" data-tooltip-content=".submenu_username">
 			PoROCoLA		</a>
 		<div class="submenu_username" style="display: none;" data-submenuid="username">
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/home/">動態</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/">個人檔案</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/friends/">好友</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/groups/">群組</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/screenshots/">內容</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/badges/">徽章</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/inventory/">物品庫</a>		</div>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/screenshots/">內容</a>			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/inventory/">小橘</a>		</div>
 	
 						<a class="menuitem" href="https://steamcommunity.com/chat/">
-				聊天			</a>
+				小橘			</a>
 			
 	<a class="menuitem" href="https://help.steampowered.com/zh-tw/">
-		客服中心	</a>
+			</a>
 	</div>
 	<script type="text/javascript">
 		jQuery(function($) {
