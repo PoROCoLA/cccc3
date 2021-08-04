@@ -675,14 +675,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 	<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
 		<div class="responsive_tab_control">
 						<select class="responsive_tab_select" id="responsive_tab_select610a7ac729d0f">
-									<option value="https://steamcommunity.com/sharedfiles/filedetails/?id=2565595954" selected>
-						介紹					</option>
-									<option value="https://steamcommunity.com/sharedfiles/filedetails/discussions/2565595954" >
-						討論區					</option>
-									<option value="https://steamcommunity.com/sharedfiles/filedetails/comments/2565595954" >
-						留言					</option>
-									<option value="https://steamcommunity.com/sharedfiles/filedetails/changelog/2565595954" >
-						更新註記					</option>
+
 							</select>
 		</div>
 	</div>
