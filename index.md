@@ -105,7 +105,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 											<a href="https://steamcommunity.com/id/hear4acoustic/">
 												<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/55/557c257e124ca3429852529947c7fa9fd77582fa.jpg" srcset="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/55/557c257e124ca3429852529947c7fa9fd77582fa.jpg 1x, https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/55/557c257e124ca3429852529947c7fa9fd77582fa_medium.jpg 2x">											</a>
 										</div>
-										<a href="https://steamcommunity.com/id/hear4acoustic/" data-miniprofile="929843388">PoROCoLA</a>									</div>
+										<a href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>									</div>
 
 																												<div class="responsive_menu_cartwallet_area persona offline">
 																																		<div class="responsive_menu_user_wallet">
@@ -151,36 +151,36 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 						<div class="header_notification_dropdown_seperator"></div>
 						<span class="notification_icon"></span>Steam 客服回覆 <span class="notification_count">0</span>					</a>
 															</div>
-									<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
-		商店	</a>
+									<a class="menuitem supernav" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg" data-tooltip-type="selector" data-tooltip-content=".submenu_store">小橘
+			</a>
 	<div class="submenu_store" style="display: none;" data-submenuid="store">
-		<a class="submenuitem" href="https://store.steampowered.com/">首頁</a>
-					<a class="submenuitem" href="https://store.steampowered.com/explore/">探索佇列</a>
-				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">願望清單</a>
-		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">點數商店</a>	
-       	<a class="submenuitem" href="https://store.steampowered.com/news/">新聞</a>
-					<a class="submenuitem" href="https://store.steampowered.com/stats/">統計資料</a>
+		<a class="submenuitem" href="https://store.steampowered.com/">小橘</a>
+					<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+				<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">小橘</a>	
+       	<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+					<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
 					</div>
 
 
 			<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
 			社群		</a>
 		<div class="submenu_community" style="display: none;" data-submenuid="community">
-			<a class="submenuitem" href="https://steamcommunity.com/">首頁</a>
-			<a class="submenuitem" href="https://steamcommunity.com/discussions/">討論區</a>
-			<a class="submenuitem" href="https://steamcommunity.com/workshop/">工作坊</a>
-			<a class="submenuitem" href="https://steamcommunity.com/market/">市集</a>
-			<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">實況直播</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘</a>
 											</div>
 		
 
 			<a class="menuitem supernav username persona_name_text_content" href="https://steamcommunity.com/id/hear4acoustic/home/" data-tooltip-type="selector" data-tooltip-content=".submenu_username">
 			您和好友		</a>
 		<div class="submenu_username" style="display: none;" data-submenuid="username">
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/home/">動態</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/">個人檔案</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/friends/">好友</a>
-			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/groups/">群組</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/screenshots/">內容</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/badges/">徽章</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/inventory/">物品庫</a>		</div>
+			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/home/">小橘</a>
+			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/">小橘/a>
+			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/friends/">小橘</a>
+			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/groups/">小橘</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/screenshots/">內容</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/badges/">徽章</a>			<a class="submenuitem" href="https://steamcommunity.com/id/hear4acoustic/inventory/">物品庫</a>		</div>
 	
 	
 	<a class="menuitem" href="https://help.steampowered.com/zh-tw/">
