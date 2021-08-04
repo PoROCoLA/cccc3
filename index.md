@@ -681,7 +681,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 					<div class="fileRatingDetails"><img src="https://community.cloudflare.steamstatic.com/public/images/sharedfiles/not-yet_large.png?v=2" /></div>
 					評價次數不足				</div>
 							</div>
-			<div class="workshopItemTitle">- Skeet Skeet Number 1 Cheat -</div>
+			<div class="workshopItemTitle">- NanfyNanfy first cheat!-</div>
 			<div style="clear:both"></div>
 		</div>
 	<div class="sectionTabs item responsive_hidden">
@@ -883,7 +883,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 		</div>
 
 			<div class="panel">
-			<table class="stats_table">
+			<table class="stats_table">s
 								<tr>
 					<td>8</td>
 					<td>不重複訪客人數</td>
@@ -908,7 +908,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			
 								<div class="game_area_purchase_margin">
 						<div class="game_area_purchase_game">
-							<h1><span>訂閱以下載</span><br>- Skeet Skeet Number 1 Cheat -</h1>
+							<h1><span>訂閱以下載</span><br>- NanfyNanfy first cheat! -</h1>
 							<div>
 								<a onclick="SubscribeItem();" id="SubscribeItemBtn" class="btn_green_white_innerfade btn_border_2px btn_medium ">
 									<div class="subscribeIcon"></div>
