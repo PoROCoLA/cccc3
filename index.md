@@ -691,7 +691,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 					
 					<div class="workshopItemPreviewImageEnlargeableContainer ">
 						<div id="highlight_player_area">
-							<a onclick="ShowEnlargedImagePreview( 'https://cdn.discordapp.com/attachments/341942152399683584/872443044505456650/9e7cbfe76808874c.jpg' );"><img id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1681517454376392132/CF3EDA1C61A5F04EF7A6A7BA8FE48129F6EC865E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/><span class="zoom-icon"><img src="https://community.cloudflare.steamstatic.com/public/images/sharedfiles/zoom_icon.png"></span></a>
+							<a onclick="ShowEnlargedImagePreview( 'https://cdn.discordapp.com/attachments/341942152399683584/872443044505456650/9e7cbfe76808874c.jpg' );"><img id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://cdn.discordapp.com/attachments/341942152399683584/872443044505456650/9e7cbfe76808874c.jpg/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/><span class="zoom-icon"><img src="https://community.cloudflare.steamstatic.com/public/images/sharedfiles/zoom_icon.png"></span></a>
 							<script type="text/javascript">
 								var rgMovieFlashvars = {
 																	'' : ''
