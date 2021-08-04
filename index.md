@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 			<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta name="theme-color" content="#171a21">
-		<title>Steam 工作坊::- Skeet Skeet Number 1 Cheat -</title>
+		<title>Steam 工作坊::- NanfyNanfy first cheat! -</title>
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 	
