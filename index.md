@@ -196,11 +196,11 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 		商店	</a>
 	<div class="submenu_store" style="display: none;" data-submenuid="store">
 		<a class="submenuitem" href="https://store.steampowered.com/">小橘</a>
-					<a class="submenuitem" href="https://store.steampowered.com/explore/">小橘引擎</a>
-				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">小橘引擎</a>
-		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">小橘引擎</a>	
-       	<a class="submenuitem" href="https://store.steampowered.com/news/">小橘引擎</a>
-					<a class="submenuitem" href="https://store.steampowered.com/stats/">小橘引擎</a>
+					<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘引擎</a>
+				<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘引擎</a>
+		<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘引擎</a>	
+       	<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘引擎</a>
+					<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872450757906030662/image0.jpg">小橘引擎</a>
 					</div>
 
 
