@@ -151,13 +151,13 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 																												<div class="responsive_menu_cartwallet_area persona offline">
 																																		<div class="responsive_menu_user_wallet">
 													<a href="https://store.steampowered.com/account/">
-														錢包<b>（NT$ 0.25）</b>													</a>
+														<b>（NT$ 30000000小橘）</b>													</a>
 												</div>
 																					</div>
 																	</div>
 
 																									<div class="menuitem notifications_item">
-										通知										<div class="notification_count_total_ctn has_notifications">
+																				<div class="notification_count_total_ctn has_notifications">
 											<span class="notification_envelope"></span>
 											<span class="notification_count">22</span>
 										</div>
@@ -165,42 +165,42 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 									<div class="notification_submenu" style="display: none;" data-submenuid="notifications">
 										
 									<a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " href="https://steamcommunity.com/id/hear4acoustic/commentnotifications/">
-				<span class="notification_icon"></span>新留言 <span class="notification_count">0</span>			</a>
+				<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="5" class="popup_menu_item notification_ctn header_notification_items " href="https://steamcommunity.com/id/hear4acoustic/inventory/">
-				<span class="notification_icon"></span>新物品 <span class="notification_count">0</span>			</a>
+				<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 								<a data-notification-type="6" class="popup_menu_item notification_ctn header_notification_invites active_inbox_item" href="https://steamcommunity.com/id/hear4acoustic/home/invites/">
-				<span class="notification_icon"></span>新邀請 <span class="notification_count">22</span>			</a>
+				<span class="notification_icon"></span>新小橘引擎 <span class="notification_count">22</span>			</a>
 
 					<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="8" class="popup_menu_item notification_ctn header_notification_gifts " href="https://steamcommunity.com/id/hear4acoustic/inventory/#pending_gifts">
-				<span class="notification_icon"></span>新禮物 <span class="notification_count">0</span>			</a>
+				<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="9" class="popup_menu_item notification_ctn header_notification_offlinemessages " href="javascript:void(0)" onclick="LaunchWebChat(); HideMenu( 'header_notification_link', 'header_notification_dropdown' ); return false;">
-				<span class="notification_icon"></span>新訊息 <span class="notification_count">0</span>			</a>
+				<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>			</a>
 								<a data-notification-type="1" class="popup_menu_item notification_ctn hide_when_empty header_notification_tradeoffers " href="https://steamcommunity.com/id/hear4acoustic/tradeoffers/">
 						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span>新交易提案 <span class="notification_count">0</span>					</a>
+						<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>					</a>
 								<a data-notification-type="2" class="popup_menu_item notification_ctn hide_when_empty header_notification_asyncgame " href="https://steamcommunity.com/id/hear4acoustic/gamenotifications">
 						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span>新回合等待中 <span class="notification_count">0</span>					</a>
+						<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>					</a>
 								<a data-notification-type="3" class="popup_menu_item notification_ctn hide_when_empty header_notification_moderatormessage " href="https://steamcommunity.com/id/hear4acoustic/moderatormessages">
 						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span>新社群訊息 <span class="notification_count">0</span>					</a>
+						<span class="notification_icon"></span>小橘引擎 <span class="notification_count">0</span>					</a>
 								<a data-notification-type="10" class="popup_menu_item notification_ctn hide_when_empty header_notification_helprequestreply " href="https://help.steampowered.com/zh-tw/wizard/HelpRequests">
 						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span>Steam 客服回覆 <span class="notification_count">0</span>					</a>
+						<span class="notification_icon"></span>Steam 小橘引擎 <span class="notification_count">0</span>					</a>
 															</div>
 									<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
 		商店	</a>
 	<div class="submenu_store" style="display: none;" data-submenuid="store">
-		<a class="submenuitem" href="https://store.steampowered.com/">首頁</a>
-					<a class="submenuitem" href="https://store.steampowered.com/explore/">探索佇列</a>
-				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">願望清單</a>
-		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">點數商店</a>	
-       	<a class="submenuitem" href="https://store.steampowered.com/news/">新聞</a>
-					<a class="submenuitem" href="https://store.steampowered.com/stats/">統計資料</a>
+		<a class="submenuitem" href="https://store.steampowered.com/">小橘</a>
+					<a class="submenuitem" href="https://store.steampowered.com/explore/">小橘引擎</a>
+				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">小橘引擎</a>
+		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">小橘引擎</a>	
+       	<a class="submenuitem" href="https://store.steampowered.com/news/">小橘引擎</a>
+					<a class="submenuitem" href="https://store.steampowered.com/stats/">小橘引擎</a>
 					</div>
 
 
@@ -232,15 +232,15 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 									<a class="menuitem" href="https://store.steampowered.com/account/preferences">偏好設定</a>
 																								<div class="menuitem change_language_action">
 									變更語言								</div>
-																									<div class="menuitem" onclick="Logout();">變更使用者</div>
+																									<div class="menuitem" onclick="Logout();">小橘引擎</div>
 																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
-										檢視電腦版網頁									</div>
+										檢視小橘網頁									</div>
 															</div>
 						</div>
 						<div class="mainmenu_footer_spacer  "></div>
 						<div class="mainmenu_footer">
 															<div class="mainmenu_footer_logo"><img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png" /></div>
-								© Valve Corporation. 版權所有。所有商標皆為個別所有權人在美國與其它國家（地區）之財產。								<span class="mainmenu_valve_links">
+													<span class="mainmenu_valve_links">
 									<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">#footer_privacy_policy</a>
 									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">#footer_legal</a>
 									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">#footer_ssa</a>
@@ -303,26 +303,26 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 
 			<div class="supernav_container">
 	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
-		商店	</a>
+		小橘引擎	</a>
 	<div class="submenu_store" style="display: none;" data-submenuid="store">
-		<a class="submenuitem" href="https://store.steampowered.com/">首頁</a>
-					<a class="submenuitem" href="https://store.steampowered.com/explore/">探索佇列</a>
-				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">願望清單</a>
+		<a class="submenuitem" href="https://store.steampowered.com/">小橘引擎</a>
+					<a class="submenuitem" href="https://store.steampowered.com/explore/">小橘引擎</a>
+				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">小橘引擎</a>
 		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">點數商店</a>	
-       	<a class="submenuitem" href="https://store.steampowered.com/news/">新聞</a>
-					<a class="submenuitem" href="https://store.steampowered.com/stats/">統計資料</a>
-							<a class="submenuitem" href="https://store.steampowered.com/about/">關於</a>
+       	<a class="submenuitem" href="https://store.steampowered.com/news/">小橘引擎</a>
+					<a class="submenuitem" href="https://store.steampowered.com/stats/">小橘引擎</a>
+							<a class="submenuitem" href="https://store.steampowered.com/about/">小橘引擎</a>
 			</div>
 
 
 			<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
-			社群		</a>
+			小橘引擎		</a>
 		<div class="submenu_community" style="display: none;" data-submenuid="community">
-			<a class="submenuitem" href="https://steamcommunity.com/">首頁</a>
-			<a class="submenuitem" href="https://steamcommunity.com/discussions/">討論區</a>
-			<a class="submenuitem" href="https://steamcommunity.com/workshop/">工作坊</a>
-			<a class="submenuitem" href="https://steamcommunity.com/market/">市集</a>
-			<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">實況直播</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872454459152810034/5.jpg">小橘引擎</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872454459152810034/5.jpg">小橘引擎</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872454459152810034/5.jpg">小橘引擎</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872454459152810034/5.jpg">小橘引擎</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/777540037592088613/872454459152810034/5.jpg">小橘引擎</a>
 											</div>
 		
 
@@ -351,7 +351,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 									<div class="header_installsteam_btn header_installsteam_btn_gray">
 
 						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
-							安裝 Steam						</a>
+							安裝 小橘						</a>
 					</div>
 				
 				
@@ -368,17 +368,17 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			<div class="popup_block_new" id="header_notification_dropdown" style="display: none;">
 			<div class="popup_body popup_menu">
 									<a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " href="https://steamcommunity.com/id/hear4acoustic/commentnotifications/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則新留言</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則新留言</span>			</a>
+				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則新留言</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 小橘</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="5" class="popup_menu_item notification_ctn header_notification_items " href="https://steamcommunity.com/id/hear4acoustic/inventory/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 件新物品在您的物品庫</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 件新物品在您的物品庫</span>			</a>
+				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 件新物品在您的物品庫</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 小橘</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 								<a data-notification-type="6" class="popup_menu_item notification_ctn header_notification_invites active_inbox_item" href="https://steamcommunity.com/id/hear4acoustic/home/invites/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新邀請</span><span class="notification_count_string plural" style=""><span class="notification_count">22</span> 個新邀請</span>			</a>
+				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新邀請</span><span class="notification_count_string plural" style=""><span class="notification_count">22</span> 小橘</span>			</a>
 
 					<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="8" class="popup_menu_item notification_ctn header_notification_gifts " href="https://steamcommunity.com/id/hear4acoustic/inventory/#pending_gifts">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新禮物</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 個新禮物</span>			</a>
+				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新禮物</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 小橘</span>			</a>
 			<div class="header_notification_dropdown_seperator"></div>
 						<a data-notification-type="9" class="popup_menu_item notification_ctn header_notification_offlinemessages " href="javascript:void(0)" onclick="LaunchWebChat(); HideMenu( 'header_notification_link', 'header_notification_dropdown' ); return false;">
 				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則未讀聊天訊息</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則未讀聊天訊息</span>			</a>
@@ -406,7 +406,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 																						<a class="popup_menu_item" href="javascript:Logout();">登出: <span class="persona online">porocola123456789</span></a>
 																						<a class="popup_menu_item" href="https://store.steampowered.com/account/preferences/">偏好設定</a>
 							
-															<span class="popup_menu_item" id="account_language_pulldown">變更語言</span>
+															<span class="popup_menu_item" id="account_language_pulldown">小橘</span>
 								<div class="popup_block_new" id="language_dropdown" style="display: none;">
 									<div class="popup_body popup_menu">
 																																													<a class="popup_menu_item tight" href="?l=schinese&amp;id=2565595954" onclick="ChangeLanguage( 'schinese' ); return false;">簡體中文</a>
@@ -648,10 +648,10 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 	<!-- these elements are used to populate the local menu on responsive pages -->
 	<div style="display: none;">
 		<div class="responsive_local_menu apphub_responsive_menu">
-			<h3 class="ellipsis apphub_responsive_menu_title">Wallpaper Engine：桌布引擎</h3>
+			<h3 class="ellipsis apphub_responsive_menu_title">小橘引擎</h3>
 			<div class="apphub_ResponsiveMenuCtn">
 									<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/431960">
-						<span>商店頁面</span>
+						<span>小橘</span>
 					</a>
 											</div>
 								</div>
@@ -665,9 +665,9 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 		<div class="apphub_HeaderBottomBG"></div>
 	</div>
 	<div class="breadcrumbs">
-		                    <a href="https://steamcommunity.com/app/431960">Wallpaper Engine</a>&gt;&nbsp;
-                    <a href="https://steamcommunity.com/app/431960/workshop/">工作坊</a>
-                    &gt;&nbsp;<a href="https://steamcommunity.com/profiles/76561199003524656/myworkshopfiles/?appid=431960">〆Loli-kidnapper★ 的工作坊</a>
+		                    <a href="https://steamcommunity.com/app/431960">小橘引擎</a>&gt;&nbsp;
+                    <a href="https://steamcommunity.com/app/431960/workshop/">小橘引擎</a>
+                    &gt;&nbsp;<a href="https://steamcommunity.com/profiles/76561199003524656/myworkshopfiles/?appid=431960">〆Loli-kidnapper★!!!!!!!</a>
                 	</div>
 
 <!-- main body -->
@@ -676,7 +676,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			<div class="bannedNotification" id="bannedNotification" style="display: none">
 			此物品因違反 Steam 社群與內容守則而被移除，目前只有您能檢視。如果您認為物品遭到誤刪，請聯絡 <a href="https://help.steampowered.com/zh-tw/wizard/HelpWithSteamIssue/?issueid=415" target="_blank" rel="noreferrer">Steam 客服</a>。					</div>
 		<div class="incompatibleNotification" id="incompatibleNotification" style="display: none">
-							此項目與 Wallpaper Engine 不相容。請參閱<a href="https://steamcommunity.com/workshop/discussions/18446744073709551615/2828702373007877657/?appid=431960">說明頁面</a>來了解為何此項目可能無法在 Wallpaper Engine 中使用。					</div>
+							此項目與小橘引擎 不相容。請參閱<a href="https://steamcommunity.com/workshop/discussions/18446744073709551615/2828702373007877657/?appid=431960">小橘頁面</a>來了解為何無法在小橘引擎 中使用。					</div>
 
 		
 		
@@ -684,8 +684,8 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 		
 		
 		<div class="visibilityNotification" id="visibilityNotificationPrivate" style="display: none">
-			<div class="currentVisibility">目前隱私設定：&nbsp;隱藏</div>
-			<div class="visibilityDesc">此項目只有您、其他共同設計者和管理員可以看見。</div>
+			<div class="currentVisibility">小橘引擎：&nbsp;隱藏</div>
+			<div class="visibilityDesc">此小橘引擎管理員可以看見。</div>
 			<div style="clear:left"></div>
 		</div>
 		<div class="visibilityNotification" id="visibilityNotificationFriendsOnly" style="display: none">
@@ -900,15 +900,15 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			<table class="stats_table">s
 								<tr>
 					<td>8</td>
-					<td>不重複訪客人數</td>
+					<td>不重複小橘</td>
 				</tr>
 													<tr>
 						<td>4</td>
-						<td>目前訂閱人數</td>
+						<td>目前小橘</td>
 					</tr>
 								<tr>
 					<td>1</td>
-					<td>目前最愛人數</td>
+					<td>目前最愛小橘</td>
 				</tr>
 			</table>
 	</div>
@@ -922,14 +922,14 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			
 								<div class="game_area_purchase_margin">
 						<div class="game_area_purchase_game">
-							<h1><span>訂閱以下載</span><br />- NanfyNanfy first cheat! -</h1>
+							<h1><span>訂閱以下載小橘</span><br />- NanfyNanfy first cheat! -</h1>
 							<div>
 								<a onclick="SubscribeItem();" id="SubscribeItemBtn" class="btn_green_white_innerfade btn_border_2px btn_medium ">
 									<div class="subscribeIcon"></div>
 									<span class="subscribeText">
-										<div id="SubscribeItemOptionAdd" class="subscribeOption subscribe selected">訂閱</div>
-										<div id="SubscribeItemOptionSubscribed" class="subscribeOption subscribed ">已訂閱</div>
-										<div class="subscribeOption remove">取消訂閱</div>
+										<div id="SubscribeItemOptionAdd" class="subscribeOption subscribe selected">訂閱小橘</div>
+										<div id="SubscribeItemOptionSubscribed" class="subscribeOption subscribed ">已訂閱小橘</div>
+										<div class="subscribeOption remove">取消訂閱小橘</div>
 									</span>
 								</a>
 							</div>
@@ -1094,7 +1094,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 					<div class="footer_content">
 				<span id="footerLogo"><img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
 				<span id="footerText">
-					&copy; Valve Corporation。版權所有。所有商標皆為其各自所有權人在美國與其他國家（地區）之財產。 本網站上部分空間資料是由 <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a> 所提供。					<br />
+					&copy; Valve Corporation。版權所有。小橘引擎空間資料是由 <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a> 所提供。					<br />
 											<span class="valve_links">
 							<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">隱私權政策</a>
 							&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">法律聲明</a>
