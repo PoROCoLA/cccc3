@@ -277,11 +277,11 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 			<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
 			社群		</a>
 		<div class="submenu_community" style="display: none;" data-submenuid="community">
-			<a class="submenuitem" href="https://steamcommunity.com/">首頁</a>
-			<a class="submenuitem" href="https://steamcommunity.com/discussions/">討論區</a>
-			<a class="submenuitem" href="https://steamcommunity.com/workshop/">工作坊</a>
-			<a class="submenuitem" href="https://steamcommunity.com/market/">市集</a>
-			<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">實況直播</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
+			<a class="submenuitem" href="https://steamcommunity.com/market/">小橘</a>
+			<a class="submenuitem" href="https://cdn.discordapp.com/attachments/341942152399683584/872405222222364712/9cca727b85578a3d.jpg">小橘</a>
 											</div>
 		
 
@@ -326,33 +326,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 	
 			<div class="popup_block_new" id="header_notification_dropdown" style="display: none;">
 			<div class="popup_body popup_menu">
-									<a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " href="https://steamcommunity.com/id/hear4acoustic/commentnotifications/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則新留言</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則新留言</span>			</a>
-			<div class="header_notification_dropdown_seperator"></div>
-						<a data-notification-type="5" class="popup_menu_item notification_ctn header_notification_items " href="https://steamcommunity.com/id/hear4acoustic/inventory/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 件新物品在您的物品庫</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 件新物品在您的物品庫</span>			</a>
-			<div class="header_notification_dropdown_seperator"></div>
-								<a data-notification-type="6" class="popup_menu_item notification_ctn header_notification_invites active_inbox_item" href="https://steamcommunity.com/id/hear4acoustic/home/invites/">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新邀請</span><span class="notification_count_string plural" style=""><span class="notification_count">22</span> 個新邀請</span>			</a>
-
-					<div class="header_notification_dropdown_seperator"></div>
-						<a data-notification-type="8" class="popup_menu_item notification_ctn header_notification_gifts " href="https://steamcommunity.com/id/hear4acoustic/inventory/#pending_gifts">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 個新禮物</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 個新禮物</span>			</a>
-			<div class="header_notification_dropdown_seperator"></div>
-						<a data-notification-type="9" class="popup_menu_item notification_ctn header_notification_offlinemessages " href="javascript:void(0)" onclick="LaunchWebChat(); HideMenu( 'header_notification_link', 'header_notification_dropdown' ); return false;">
-				<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則未讀聊天訊息</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則未讀聊天訊息</span>			</a>
-								<a data-notification-type="1" class="popup_menu_item notification_ctn hide_when_empty header_notification_tradeoffers " href="https://steamcommunity.com/id/hear4acoustic/tradeoffers/">
-						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則新的交易通知</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則新的交易通知</span>					</a>
-								<a data-notification-type="2" class="popup_menu_item notification_ctn hide_when_empty header_notification_asyncgame " href="https://steamcommunity.com/id/hear4acoustic/gamenotifications">
-						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 回合等待中</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 個新回合等待中</span>					</a>
-								<a data-notification-type="3" class="popup_menu_item notification_ctn hide_when_empty header_notification_moderatormessage " href="https://steamcommunity.com/id/hear4acoustic/moderatormessages">
-						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則社群訊息</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則社群訊息</span>					</a>
-								<a data-notification-type="10" class="popup_menu_item notification_ctn hide_when_empty header_notification_helprequestreply " href="https://help.steampowered.com/zh-tw/wizard/HelpRequests">
-						<div class="header_notification_dropdown_seperator"></div>
-						<span class="notification_icon"></span><span class="notification_count_string singular" style="display: none;">1 則來自 Steam 客服的回覆</span><span class="notification_count_string plural" style=""><span class="notification_count">0</span> 則來自 Steam 客服的回覆</span>					</a>
+									<a data-notification-type="4" class="popup_menu_item notification_ctn header_notification_comments " 
 									</div>
 		</div>
 							</div>
